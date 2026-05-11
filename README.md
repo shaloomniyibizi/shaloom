@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shaloomniyibizi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning at IPRC Tumba college of technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m pursuing masters in Big data Analytics at Advantist University of Central Africa(AUCA).
+- 📫 You can reach me on, Email: shaloom.dev@gmail.com ,  phone:+250 789 104 307
 
 <!---
 shaloomniyibizi/shaloomniyibizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
